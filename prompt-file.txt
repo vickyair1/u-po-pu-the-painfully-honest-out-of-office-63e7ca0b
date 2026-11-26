@@ -1,0 +1,1 @@
+Write a painfully honest but still polite out-of-office email auto-reply, a single sentence under 200 characters, as a deterministic Python program that prints exactly that sentence to stdout and writes it to /output/entry.txt.
